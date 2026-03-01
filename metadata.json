@@ -1,0 +1,5 @@
+{
+  "name": "Forensic DNA Analysis",
+  "description": "An educational app teaching DNA analysis in forensics science, covering human genome, applications, contamination avoidance, and sample collection.",
+  "requestFramePermissions": []
+}
